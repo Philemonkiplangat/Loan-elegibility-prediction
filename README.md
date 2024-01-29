@@ -1,2 +1,2 @@
 # Loan-elegibility-prediction
-In this project, I analyzed data from a financial institution provided from Kaggle and trained certain algorithms relating to a bank customer's eligibility for loans and finally evaluating the best fit tobe used.
+In this project, I analyzed data from a financial institution provided from Kaggle and trained the four machine learning algorithms, namely random forest,support vector machine,logistic regression and decision tree and the random forest became the best with a  training score of 96% and test score of 89%. The problem was to predict the bank customers who would be eligible to the loan.
